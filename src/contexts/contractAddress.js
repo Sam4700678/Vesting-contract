@@ -1,0 +1,1 @@
+export const vestingAddress = '0xb0749EFb333D80F9472fD71857049AC706404036';
